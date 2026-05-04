@@ -1,7 +1,7 @@
-# assistente-jur-dico-android — Projeto Android (Capacitor)
+# Assistente Jurídico — Projeto Android (Capacitor)
 
 ## Origem
-GitHub: maikonadvogadomg-alt/assistente-jur-dico-android@main
+Assistente Jurídico (14 arquivos)
 
 ## Estrutura
 ```
@@ -38,7 +38,7 @@ GitHub: maikonadvogadomg-alt/assistente-jur-dico-android@main
 - Crie um keystore e guarde em segurança
 
 ## Configuração
-- **Package:** `com.github.assistentejurdicoandroid`
+- **Package:** `br.com.maikoncaldeira.assistentejuridico`
 - **Versão:** 1.0.0 (code: 1)
 - **Min SDK:** Android 22+
 - **Orientação:** portrait

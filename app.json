@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "assistente-jur-dico-android",
+    "slug": "assistente-jur-dico-android",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#0f172a",
+    "android": {
+      "package": "com.github.assistentejurdicoandroid",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      }
+    },
+    "plugins": [
+      "./plugins/withCopyWww"
+    ],
+    "extra": {}
+  }
+}
